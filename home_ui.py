@@ -321,7 +321,7 @@ class HomeUI(QWidget):
             "Add new patients using the 'Add New Patient' button above",
             "Run assessment tests by navigating to specific test pages",
             "View and export results using the Results page",
-            "Contact support at bytebuddies@gmail.com for assistance"
+            "Contact support for assistance"
         ]
         
         row = 0

@@ -274,7 +274,7 @@ class LoginUI(QWidget):
         right_layout.addStretch()
         
         # Add version info at bottom
-        version_label = QLabel("NeuroWell v1.0 - Developed by ByteBuddies")
+        version_label = QLabel("NeuroWell v1.0 - Developed by Nivetha P")
         version_label.setAlignment(Qt.AlignCenter)
         version_label.setStyleSheet("color: #95A5A6; font-size: 9pt;")
         right_layout.addWidget(version_label)

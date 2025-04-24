@@ -113,7 +113,7 @@ If you're encountering errors related to the hand tracking modules:
 - Make sure the CSV files are not open in other applications
 - Check file permissions to ensure the application can read and write to the data files
 
-If problems persist, please contact support at bytebuddies@gmail.com with details about your system configuration and the specific issue you're experiencing.
+If problems persist, please contact support with details about your system configuration and the specific issue you're experiencing.
 
 ## License
 
@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Developed by ByteBuddies Team
+- Developed by Nivetha P
 - Built based on the Streamlit version of NeuroWell
 
 ## User Interface Design
