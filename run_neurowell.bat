@@ -1,0 +1,3 @@
+@echo off
+echo Starting NeuroWell Application...
+start E:\Projects\Neuro-Well\nuerowell code\native app\dist\NeuroWell.exe
